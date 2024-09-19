@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-using System;
+﻿using System;
 
 class PedraPapelTesoura
 {
@@ -21,7 +20,22 @@ class PedraPapelTesoura
                 Console.WriteLine("Entrada inválida. Tente novamente: (0) Pedra, (1) Papel, (2) Tesoura");
             }
 
-            int escolhaComputador = random.Next(3);
+            // O computador terá chances balanceadas de ganhar, empatar ou perder
+            int escolhaComputador;
+            int chance = random.Next(100); // Gera um número entre 0 e 99
+
+            if (chance < 33)
+            {
+                escolhaComputador = (escolhaUsuario + 1) % 3; // Computador vence
+            }
+            else if (chance < 66)
+            {
+                escolhaComputador = escolhaUsuario; // Empate
+            }
+            else
+            {
+                escolhaComputador = (escolhaUsuario + 2) % 3; // Usuário vence
+            }
 
             Console.WriteLine($"\nVocê escolheu: {opcoes[escolhaUsuario]}");
             Console.WriteLine($"Computador escolheu: {opcoes[escolhaComputador]}\n");
