@@ -46,5 +46,7 @@ Este é um jogo de "Pedra, Papel, Tesoura", onde você joga contra o computador.
 
 Se tiver dúvidas sobre algum ponto específico, me avise que eu explico melhor!
 
+### Foto do jogo em execução
+
 <img src="image.png" alt="Print do Jogo em Execução">
 
