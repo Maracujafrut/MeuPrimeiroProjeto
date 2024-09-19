@@ -1,0 +1,15 @@
+c:\Users\Alunos\OneDrive\Documentos\Pedro Augusto\MeuPrimeiroProjeto\PedraPapelTesoura\bin\Debug\net8.0\PedraPapelTesoura.exe
+C:\Users\Alunos\OneDrive\Documentos\Pedro Augusto\MeuPrimeiroProjeto\PedraPapelTesoura\bin\Debug\net8.0\PedraPapelTesoura.deps.json
+C:\Users\Alunos\OneDrive\Documentos\Pedro Augusto\MeuPrimeiroProjeto\PedraPapelTesoura\bin\Debug\net8.0\PedraPapelTesoura.runtimeconfig.json
+c:\Users\Alunos\OneDrive\Documentos\Pedro Augusto\MeuPrimeiroProjeto\PedraPapelTesoura\bin\Debug\net8.0\PedraPapelTesoura.dll
+c:\Users\Alunos\OneDrive\Documentos\Pedro Augusto\MeuPrimeiroProjeto\PedraPapelTesoura\bin\Debug\net8.0\PedraPapelTesoura.pdb
+c:\Users\Alunos\OneDrive\Documentos\Pedro Augusto\MeuPrimeiroProjeto\PedraPapelTesoura\obj\Debug\net8.0\PedraPapelTesoura.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alunos\OneDrive\Documentos\Pedro Augusto\MeuPrimeiroProjeto\PedraPapelTesoura\obj\Debug\net8.0\PedraPapelTesoura.AssemblyInfoInputs.cache
+c:\Users\Alunos\OneDrive\Documentos\Pedro Augusto\MeuPrimeiroProjeto\PedraPapelTesoura\obj\Debug\net8.0\PedraPapelTesoura.AssemblyInfo.cs
+c:\Users\Alunos\OneDrive\Documentos\Pedro Augusto\MeuPrimeiroProjeto\PedraPapelTesoura\obj\Debug\net8.0\PedraPapelTesoura.csproj.CoreCompileInputs.cache
+c:\Users\Alunos\OneDrive\Documentos\Pedro Augusto\MeuPrimeiroProjeto\PedraPapelTesoura\obj\Debug\net8.0\PedraPapelTesoura.sourcelink.json
+c:\Users\Alunos\OneDrive\Documentos\Pedro Augusto\MeuPrimeiroProjeto\PedraPapelTesoura\obj\Debug\net8.0\PedraPapelTesoura.dll
+c:\Users\Alunos\OneDrive\Documentos\Pedro Augusto\MeuPrimeiroProjeto\PedraPapelTesoura\obj\Debug\net8.0\refint\PedraPapelTesoura.dll
+c:\Users\Alunos\OneDrive\Documentos\Pedro Augusto\MeuPrimeiroProjeto\PedraPapelTesoura\obj\Debug\net8.0\PedraPapelTesoura.pdb
+C:\Users\Alunos\OneDrive\Documentos\Pedro Augusto\MeuPrimeiroProjeto\PedraPapelTesoura\obj\Debug\net8.0\PedraPapelTesoura.genruntimeconfig.cache
+C:\Users\Alunos\OneDrive\Documentos\Pedro Augusto\MeuPrimeiroProjeto\PedraPapelTesoura\obj\Debug\net8.0\ref\PedraPapelTesoura.dll
